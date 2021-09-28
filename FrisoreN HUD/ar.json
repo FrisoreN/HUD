@@ -1,0 +1,21 @@
+{
+  "ar": true,
+  "label": "Scoreboard",
+  "name": "ar",
+  "inputs": [
+    {
+      "type": "action",
+      "name": "arState",
+      "values": [
+        {
+          "name": "show",
+          "lable": "Show scoreboard",
+        }
+        {
+          "nampe": "hide",
+          "lable": "Hide scoreboard",
+        }
+      ]
+    }
+  ]
+}
